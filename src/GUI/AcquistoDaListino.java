@@ -23,7 +23,7 @@ import java.awt.event.MouseEvent;
 
 // TODO: Auto-generated Javadoc
 /**
- * The Class AcquistoDaListino.
+ * La classe AcquistoDaListino.
  */
 public class AcquistoDaListino extends JFrame {
 
