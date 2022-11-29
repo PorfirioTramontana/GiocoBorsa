@@ -41,9 +41,6 @@ public class Main {
 		
 		System.out.println("Il capitale di "+g.getNome()+" ora vale "+g.getCapitale());
 		
-		
-		
-
 	}
 
 }
